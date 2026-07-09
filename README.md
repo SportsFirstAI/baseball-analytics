@@ -20,13 +20,17 @@
 
 ---
 
-## 🎬 Live Demo — AI Output Video
+## 🎬 Live Demo — AI Output Preview
 
-> ⚡ **Skeleton overlay + real-time joint angle tracking on a live pitcher**
+> ⚡ **Skeleton overlay + real-time joint angle tracking on a live pitcher** — *click to watch full video*
 
-https://github.com/SportsFirstAI/baseball-analytics/raw/main/perfect_visual_broadcast_with_contact.mp4
+<div align="center">
 
-<sub>▶️ Full output video: `perfect_visual_broadcast_with_contact.mp4` — Click above to play in browser or [download here](./perfect_visual_broadcast_with_contact.mp4)</sub>
+[![Baseball AI Demo](./demo_preview.gif)](./perfect_visual_broadcast_with_contact.mp4)
+
+<sub>👆 Animated preview (first 3 seconds) · Click GIF to download & watch the full output video</sub>
+
+</div>
 
 ---
 
