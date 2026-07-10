@@ -8,11 +8,14 @@
 
 <br/><br/>
 
-# ⚾ Baseball Analytics AI Engine
+# ⚾ Baseball AI — Open-Source Baseball Analytics Engine
 
 ### *Real-time Pitcher Biomechanics · Ball Tracking · Strike Zone Detection · Broadcast Intelligence*
 
-**Powered by YOLO26-Pose · Built by [SportsFirstAI](https://github.com/SportsFirstAI)**
+**Powered by YOLO26-Pose · Built and maintained by [SportsFirst](https://sportsfirst.net) — a sports technology development studio.
+
+[Baseball AI Solutions](https://www.sportsfirst.net/sportai-1/baseball-ai-for-smarter-coaching-and-game-analysis) → · [Book a Call](https://calendly.com/sportsdev/product-consulting-meeting) · [sportsfirst.net](sportsfirst.net)
+**
 
 <br/>
 
@@ -224,6 +227,20 @@ MIT License · Copyright (c) 2026 SportsFirstAI
 </div>
 
 ---
+
+🏢 About SportsFirst
+
+This project is built and maintained by [SportsFirst](https://www.sportsfirst.net/), a custom sports technology development studio. Since 2014, we've designed, built, and scaled sports products for NFL teams, Stack Sports, USA Rugby, Super Rugby, Svexa, and 25+ sports startups — across sports AI, video analysis, coaching tools, fan engagement, and ticketing.
+
+Building a baseball AI or sports video analysis product? We help sports startups, academies, and organizations go from idea to production — AI pipelines, mobile apps, backend, and scaling.
+
+
+🏀 [Basketball AI Solutions](https://www.sportsfirst.net/sportai-1/-basketball-ai-solutions-for-smarter-game-analysis-)
+⚽ [Swing Vision AI for Sports Video Analysis](https://www.sportsfirst.net/sportai-1/swing-vision-ai-for-sports-video-analysis-)
+🤖 [AI Solutions by Sport — Full Directory](https://www.sportsfirst.net/sportai-1)
+📱 [Sports App Development](https://www.sportsfirst.net/sportsappdevelopmentcompany)
+📅 [Book a call with our team](https://calendly.com/sportsdev) or [contact us](https://www.sportsfirst.net/contact)
+
 
 <div align="center">
 
