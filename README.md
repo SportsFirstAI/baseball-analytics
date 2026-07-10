@@ -219,7 +219,7 @@ MIT License · Copyright (c) 2026 SportsFirstAI
 | | |
 |--|--|
 | 🏢 **Organization** | [SportsFirstAI](https://github.com/SportsFirstAI) |
-| 👨‍💻 **Developer** | [Ishan-B-Mistri](https://github.com/Ishan-B-Mistri) |
+
 
 </div>
 
