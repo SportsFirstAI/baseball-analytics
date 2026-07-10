@@ -235,7 +235,7 @@ This project is built and maintained by [SportsFirst](https://www.sportsfirst.ne
 Building a baseball AI or sports video analysis product? We help sports startups, academies, and organizations go from idea to production — AI pipelines, mobile apps, backend, and scaling.
 
 
-🏀 [Basketball AI Solutions](https://www.sportsfirst.net/sportai-1/-basketball-ai-solutions-for-smarter-game-analysis-)
+🏀 [Baseball AI Solutions](https://www.sportsfirst.net/sportai-1/baseball-ai-for-smarter-coaching-and-game-analysis)
 ⚽ [Swing Vision AI for Sports Video Analysis](https://www.sportsfirst.net/sportai-1/swing-vision-ai-for-sports-video-analysis-)
 🤖 [AI Solutions by Sport — Full Directory](https://www.sportsfirst.net/sportai-1)
 📱 [Sports App Development](https://www.sportsfirst.net/sportsappdevelopmentcompany)
